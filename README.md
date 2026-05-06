@@ -1,2 +1,21 @@
-# window-door-catalogs
-Complete product catalogs for FPH windows &amp; doors, including aluminum windows and doors, front entry doors, narrow-frame doors, interior wooden doors, garage doors and more. Made in Foshan, China, with custom solutions for global projects. 
+# FPH Windows & Doors - Product Catalogs
+
+Welcome to our official product catalog repository. Here you will find complete catalogs for our full range of FPH windows and doors, including solutions for both external and internal use.
+
+Our product lines include:
+- Aluminum windows & doors
+- Front entry doors
+- Narrow-frame doors
+- Interior wooden doors
+- Garage doors
+- Custom solutions for residential and commercial projects
+
+All products are made in Foshan, China, with reliable quality and competitive pricing.
+
+---
+
+Contact Us:
+✉️ Email: angelia@foshanprimehome.com
+📱 WhatsApp: +86 158 1699 4695
+
+> This repository is continuously updated with new catalogs and product information. Feel free to check back or contact us for the latest versions.
