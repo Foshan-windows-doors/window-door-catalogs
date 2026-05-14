@@ -1,21 +1,45 @@
-# FPH Windows & Doors - Product Catalogs
+# FPH Windows & Doors – Product Catalogs
 
-Welcome to our official product catalog repository. Here you will find complete catalogs for our full range of FPH windows and doors, including solutions for both external and internal use.
+[![Repository Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
+[![Catalog](https://img.shields.io/badge/Format-PDF-blue)]()
+[![Updates](https://img.shields.io/badge/Updates-Regularly-orange)]()
 
-Our product lines include:
+## 📌 Overview
+
+Welcome to the official product catalog repository of **Foshan Prime Home (FPH)**.
+
+Here you will find complete PDF catalogs for our full range of windows and doors, manufactured in **Foshan, China** – the hardware capital of the world.
+
+---
+
+## 📚 Available Catalogs
+
+| Catalog | Description |
+| :--- | :--- |
+| `02-front-entry-doors-catalog.pdf` | Front entry doors – residential and commercial |
+| `03-narrow-frame-doors-catalog.pdf` | Narrow frame aluminum doors for modern designs |
+
+*(More catalogs coming soon)*
+
+---
+
+## 🚪 Product Lines
+
 - Aluminum windows & doors
 - Front entry doors
 - Narrow-frame doors
 - Interior wooden doors
 - Garage doors
-- Custom solutions for residential and commercial projects
-
-All products are made in Foshan, China, with reliable quality and competitive pricing.
+- Custom solutions
 
 ---
 
-Contact Us:
-✉️ Email: angelia@foshanprimehome.com
-📱 WhatsApp: +86 158 1699 4695
+## 📥 How to Download
 
-> This repository is continuously updated with new catalogs and product information. Feel free to check back or contact us for the latest versions.
+1. Browse to any PDF file
+2. Click **Download** or **Raw**
+3. Save to your device
+
+To download all catalogs:
+```bash
+git clone https://github.com/Foshan-windows-doors/window-door-catalogs.git
